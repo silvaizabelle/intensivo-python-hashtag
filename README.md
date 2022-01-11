@@ -4,10 +4,10 @@ Curso online e intensivo de introdução à linguagem Python, ministrada por Jo�
 
 ### Cronograma
 
-10/01 - Automação de Sistemas e Processos com Python - 2 horas
-11/01 - Análise de Dados com Python - 2 horas
-12/01 - Web Scraping - 2 horas
-13/01 - Introdução à projetos de Ciência de Dados e Inteligência Artificial - - 2 horas
+- 10/01 - Automação de Sistemas e Processos com Python - 2 horas
+- 11/01 - Análise de Dados com Python - 2 horas
+- 12/01 - Web Scraping - 2 horas
+- 13/01 - Introdução à projetos de Ciência de Dados e Inteligência Artificial - - 2 horas
 
 
 ## Aula 1 - Automação de Sistemas e Processos com Python
