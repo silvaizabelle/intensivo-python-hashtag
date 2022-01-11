@@ -1,6 +1,6 @@
-# Intensivão Python - [Hashtag Treinamentos](https://www.youtube.com/c/HashtagTreinamentos)
+# Intensivão Python - Hashtag Treinamentos
 
-Curso online e intensivo de introdução à linguagem Python, ministrada por João do canal de Youtube Hashtag Treinamentos.
+Curso online e intensivo de introdução à linguagem Python, ministrada por João do canal de Youtube [Hashtag Treinamentos](https://www.youtube.com/c/HashtagTreinamentos).
 
 ## Aula 1 - Automação de Sistemas e Processos com Python
 
@@ -13,7 +13,7 @@ Curso online e intensivo de introdução à linguagem Python, ministrada por Jo�
 - Comandos pyautogui: [https://pyautogui.readthedocs.io/en/latest/quickstart.html](https://pyautogui.readthedocs.io/en/latest/quickstart.html)
 
 
-
+_______________________________________-
 
 
 Izabelle Pereira da Silva
