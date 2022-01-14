@@ -12,6 +12,7 @@ Curso online e intensivo de introdução à linguagem Python, ministrada por Jo�
 Total: 8 horas
 
 
+
 ## Aula 1 - Automação de Sistemas e Processos com Python
 
 ### :round_pushpin: Desafio
@@ -26,7 +27,7 @@ Automatizar um processo repetitivo por meio da biblioteca pyautogui e pyperclip,
 ### :mag: Como resolvemos esse desafio?
 Você pode ver o código [aqui](https://github.com/silvaizabelle/intensivo-python-hashtag/blob/main/aula-1-automacao.ipynb).
 
-_
+
 
 ## Aula 2 - Análise de Dados em Python
 
@@ -45,6 +46,8 @@ Analisar e tratar conjunto de dados exportados do excel, por meio da biblioteca 
 ### :mag: Como resolvemos esse desafio?
 Você pode ver o código aqui.
 
+
+
 ## Aula 3 - Automação Web (web scraping) e Busca de informações com Python
 
 ### :round_pushpin: Desafio
@@ -59,6 +62,7 @@ Coletar/extrair informações de páginas (web scraping) por meio da biblioteca 
 
 ### :mag: Como resolvemos esse desafio?
 Você pode ver o código aqui.
+
 
 
 ## Aula 4 - Projeto Ciência de Dados - Previsão de Vendas
