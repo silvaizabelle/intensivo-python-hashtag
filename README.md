@@ -75,7 +75,7 @@ _______________________________________________
 
 Criar um projeto de ciência de dados: entendendo o problema, o contexto e a atuação da empresa solicitante; extraindo e ajustando os dados, explorando os dados e compreendendo a correlação entre as variáveis (estatística básica). 
 
-Após a compreensão da correlação entre as variáveis, modelamos nossa base de dados e a separamos em duas (ou quatro se considerarmos x e y): treino e teste. A base de treino serve para treinar a maquina, para que ela consiga entender os resultados a partir dos investimentos, para depois conseguir prever quais serão os resultados alcançados. A base de teste serve para que comparemos os resultados com o treino. 
+Após a compreensão da correlação entre as variáveis, modelamos nossa base de dados e a separamos em duas (ou quatro se considerarmos x e y): treino e teste. A base de treino serve para treinar a maquina, para que ela consiga entender os resultados a partir dos investimentos, e, após testes, prever quais serão os resultados alcançados. A base de teste serve como fonte para comparação com os resultados com a base de treino. 
 
 O python tem bibliotecas especializadas em machine learning, então importamos o sklearn, uma biblioteca que treina o algoritmo para fazer previsões. Dentro dos modelos de previsão testamos regressão linear e árvore de decisões. No final entendemos que a correlação com o modelo de decisão era maior, por isso mais confiável.
 
