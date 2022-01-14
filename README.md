@@ -21,7 +21,7 @@ Curso online e intensivo de introdução à linguagem Python, ministrada por Jo�
 ### :bulb: O que aprendemos?
 Automatizar um processo repetitivo por meio da biblioteca pyautogui e pyperclip, responsáveis por controlar mouse e teclado. Por meio do script, entramos em uma pasta do Google Drive, importamos um conjunto de dados xls, calculamos a soma do faturamento e quantidade de produtos vendidos por meio da função .sum do _pandas_, seguido de envio automático do e-mail com dados referentes à planilha baixada.
 
-:mag: Como resolvemos esse desafio?
+### :mag: Como resolvemos esse desafio?
 _______________________________________
 
 
