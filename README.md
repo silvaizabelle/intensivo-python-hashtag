@@ -28,5 +28,24 @@ Você pode ver o código [aqui](https://github.com/silvaizabelle/intensivo-pytho
 _______________________________________
 
 
+## Aula 2 - Análise de Dados em Python
+
+### Desafio:
+
+1. Você trabalha em uma empresa de telecom e tem clientes de vários serviços diferentes, entre os principais: internet e telefone.
+2. O problema é que, analisando o histórico dos clientes dos últimos anos, você percebeu que a empresa está com Churn de mais de 26% dos clientes.
+3. Isso representa uma perda de milhões para a empresa.
+4. O que a empresa precisa fazer para resolver isso?
+
+- Link Original do Kaggle: [https://www.kaggle.com/radmirzosimov/telecom-users-dataset](https://www.kaggle.com/radmirzosimov/telecom-users-dataset)
+
+### :bulb: O que aprendemos?
+Analisar e tratar conjunto de dados exportados do excel. Apresentação de tabelas descritivas e elaboração de gráficos comparativos para retirada de insights sobre problemas da empresa, seguido de sugestões de ações a partir da análise dos dados obtidos.
+
+### :mag: Como resolvemos esse desafio?
+Você pode ver o código [aqui](https://github.com/silvaizabelle/intensivo-python-hashtag/blob/main/aula-1-automacao.ipynb).
+_______________________________________
+
+
 Izabelle Pereira da Silva
 [LinkedIn](https://www.linkedin.com/in/silvaizabelle/) | [Github](https://github.com/silvaizabelle) 
