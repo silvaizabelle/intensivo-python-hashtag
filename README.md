@@ -82,7 +82,7 @@ O python tem bibliotecas especializadas em machine learning, então importamos o
 Por fim, compreendemos que o valor investido em TV resultava em mais vendas.
 
 ### :mag: Como resolvemos esse desafio?
-Você pode ver o código aqui.
+Você pode ver o código [aqui](https://github.com/silvaizabelle/intensivo-python-hashtag/blob/main/aula-4-projetocienciadedados.ipynb).
 
 _______________________________________
 
