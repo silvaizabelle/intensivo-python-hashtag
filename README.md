@@ -1,6 +1,6 @@
 # Intensivão Python - Hashtag Treinamentos :chart_with_upwards_trend:
 
-Curso online e intensivo de introdução à linguagem Python, ministrada por João do canal de Youtube [Hashtag Treinamentos](https://www.youtube.com/c/HashtagTreinamentos).
+Curso online e intensivo de introdução à linguagem Python, ministrada por Lira do canal de Youtube [Hashtag Treinamentos](https://www.youtube.com/c/HashtagTreinamentos).
 
 ### Cronograma
 
@@ -61,7 +61,7 @@ _______________________________________________
 Coletar/extrair informações de páginas (web scraping) por meio da biblioteca _selenium_. Pesquisar os valores no google, inspecionar os elementos e indicar a localização no código. Exportar uma planilha slx e alterar os valores, para aqueles que procuramos. Por fim, transformar as colunas para receber os valores atualiados.  Assim, todas as vezes que rodarmos o código, os valores serão atualizados e salvos na planilha sem precisarmos abrir o arquivo excel.
 
 ### :mag: Como resolvemos esse desafio?
-Você pode ver o código aqui.
+Você pode ver o código [aqui](https://github.com/silvaizabelle/intensivo-python-hashtag/blob/main/aula-3-webscraping.ipynb).
 
 _______________________________________________
 
