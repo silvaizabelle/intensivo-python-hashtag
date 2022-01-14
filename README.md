@@ -44,7 +44,7 @@ _______________________________________________
 Analisar e tratar conjunto de dados exportados do excel, por meio da biblioteca _pandas_, utilizando as funções _drop_ e _dropna_. Além disso, aprendemos a explorar os dados por meio de tabelas descritivas e plotar gráficos comparativos, por meio da biblioteca _plotly_, para retirada de insights sobre problemas da empresa. Por fim, sugerimos ações a partir da análise dos dados tratados.
 
 ### :mag: Como resolvemos esse desafio?
-Você pode ver o código aqui.
+Você pode ver o código [aqui](https://github.com/silvaizabelle/intensivo-python-hashtag/blob/main/aula-2-analisededados.ipynb).
 
 _______________________________________________
 
