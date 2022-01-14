@@ -13,7 +13,7 @@ Total: 8 horas
 
 
 
-## Aula 1 - Automação de Sistemas e Processos com Python
+## **Aula 1 - Automação de Sistemas e Processos com Python**
 
 ### :round_pushpin: Desafio
 
