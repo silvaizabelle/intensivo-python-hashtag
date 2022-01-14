@@ -27,9 +27,9 @@ Automatizar um processo repetitivo por meio da biblioteca pyautogui e pyperclip,
 Você pode ver o código [aqui](https://github.com/silvaizabelle/intensivo-python-hashtag/blob/main/aula-1-automacao.ipynb).
 
 
-## :round_pushpin: Aula 2 - Análise de Dados em Python
+## Aula 2 - Análise de Dados em Python
 
-### Desafio:
+### :round_pushpin: Desafio:
 
 1. Você trabalha em uma empresa de telecom e tem clientes de vários serviços diferentes, entre os principais: internet e telefone.
 2. O problema é que, analisando o histórico dos clientes dos últimos anos, você percebeu que a empresa está com Churn de mais de 26% dos clientes.
@@ -44,8 +44,9 @@ Analisar e tratar conjunto de dados exportados do excel, por meio da biblioteca 
 ### :mag: Como resolvemos esse desafio?
 Você pode ver o código aqui.
 
-## :round_pushpin: Aula 3 - Automação Web (web scraping) e Busca de informações com Python
+## Aula 3 - Automação Web (web scraping) e Busca de informações com Python
 
+### :round_pushpin: Desafio
 1. Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado a cotação de:
     - Dólar
     - Euro
@@ -61,7 +62,7 @@ Você pode ver o código aqui.
 
 ## :round_pushpin: Aula 4 - Projeto Ciência de Dados - Previsão de Vendas
 
-### Desafio
+### :round_pushpin: Desafio
 
 1. Nosso desafio é conseguir prever as vendas que vamos ter em determinado período com base nos gastos em anúncios nas 3 grandes redes que a empresa Hashtag investe: TV, Jornal e Rádio
 
