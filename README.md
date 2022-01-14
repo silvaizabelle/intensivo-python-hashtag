@@ -26,6 +26,7 @@ Automatizar um processo repetitivo por meio da biblioteca pyautogui e pyperclip,
 ### :mag: Como resolvemos esse desafio?
 Você pode ver o código [aqui](https://github.com/silvaizabelle/intensivo-python-hashtag/blob/main/aula-1-automacao.ipynb).
 
+_
 
 ## Aula 2 - Análise de Dados em Python
 
@@ -60,7 +61,7 @@ Coletar/extrair informações de páginas (web scraping) por meio da biblioteca 
 Você pode ver o código aqui.
 
 
-## :round_pushpin: Aula 4 - Projeto Ciência de Dados - Previsão de Vendas
+## Aula 4 - Projeto Ciência de Dados - Previsão de Vendas
 
 ### :round_pushpin: Desafio
 
