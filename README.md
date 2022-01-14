@@ -18,7 +18,9 @@ Curso online e intensivo de introdução à linguagem Python, ministrada por Jo�
 2. E-mail da diretoria: seugmail@gmail.com
 3. Local onde o sistema disponibiliza as vendas do dia anterior: [https://drive.google.com/drive/folders/149xknr9JvrlEnhNWO49zPcw0PW5icxga?usp=sharing](https://drive.google.com/drive/folders/149xknr9JvrlEnhNWO49zPcw0PW5icxga?usp=sharing)
 4. Para resolver isso, vamos usar o pyautogui, uma biblioteca de *automação de comandos do mouse e do teclado*
-- Comandos pyautogui: [https://pyautogui.readthedocs.io/en/latest/quickstart.html](https://pyautogui.readthedocs.io/en/latest/quickstart.html)
+- Comandos pyautogui: [https://pyautogui.readthedocs.io/en/latest/quickstart.html](https://pyautogui.readthedocs.io/en/latest/quickstart.html
+
+### :bulb: O que aprendemos?
 
 
 _______________________________________
