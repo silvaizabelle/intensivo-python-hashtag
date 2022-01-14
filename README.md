@@ -14,7 +14,7 @@ Total: 8 horas
 
 ## Aula 1 - Automação de Sistemas e Processos com Python
 
-### Desafio
+### :round_pushpin: Desafio
 
 1. Todos os dias, o nosso sistema atualiza as vendas do dia anterior. O seu trabalho diário, como analista, é enviar um e-mail para a diretoria, assim que começar a trabalhar, com o faturamento e a quantidade de produtos vendidos no dia anterior
 2. Para resolver isso, vamos usar o pyautogui, uma biblioteca de *automação de comandos do mouse e do teclado*
@@ -27,7 +27,7 @@ Automatizar um processo repetitivo por meio da biblioteca pyautogui e pyperclip,
 Você pode ver o código [aqui](https://github.com/silvaizabelle/intensivo-python-hashtag/blob/main/aula-1-automacao.ipynb).
 
 
-## Aula 2 - Análise de Dados em Python
+## :round_pushpin: Aula 2 - Análise de Dados em Python
 
 ### Desafio:
 
@@ -44,7 +44,7 @@ Analisar e tratar conjunto de dados exportados do excel, por meio da biblioteca 
 ### :mag: Como resolvemos esse desafio?
 Você pode ver o código aqui.
 
-## Aula 3 - Automação Web (web scraping) e Busca de informações com Python
+## :round_pushpin: Aula 3 - Automação Web (web scraping) e Busca de informações com Python
 
 1. Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado a cotação de:
     - Dólar
@@ -59,7 +59,7 @@ Coletar/extrair informações de páginas (web scraping) por meio da biblioteca 
 Você pode ver o código aqui.
 
 
-## Aula 4 - Projeto Ciência de Dados - Previsão de Vendas
+## :round_pushpin: Aula 4 - Projeto Ciência de Dados - Previsão de Vendas
 
 ### Desafio
 
