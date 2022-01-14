@@ -7,7 +7,7 @@ Curso online e intensivo de introdução à linguagem Python, ministrada por Jo�
 - 10/01 - Automação de Sistemas e Processos com Python - 2 horas
 - 11/01 - Análise de Dados com Python - 2 horas
 - 12/01 - Web Scraping - 2 horas
-- 13/01 - Introdução à projetos de Ciência de Dados e Inteligência Artificial - - 2 horas
+- 13/01 - Introdução à projetos de Ciência de Dados e Inteligência Artificial - 2 horas
 
 
 ## Aula 1 - Automação de Sistemas e Processos com Python
@@ -21,7 +21,7 @@ Curso online e intensivo de introdução à linguagem Python, ministrada por Jo�
 - Comandos pyautogui: [https://pyautogui.readthedocs.io/en/latest/quickstart.html](https://pyautogui.readthedocs.io/en/latest/quickstart.html
 
 ### :bulb: O que aprendemos?
-
+Automatizar um processo repetitivo por meio da biblioteca pyautogui e pyperclip, responsáveis por controlar mouse e teclado. Por meio do script, entramos em uma pasta do Google Drive, importamos um conjunto de dados xls, calculamos a soma do faturamento e quantidade de produtos vendidos por meio da função .sum do _pandas_, seguido de envio automático do e-mail com dados referentes à planilha baixada
 
 _______________________________________
 
