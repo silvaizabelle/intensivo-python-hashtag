@@ -1,4 +1,4 @@
-# Intensivão Python - Hashtag Treinamentos
+# Intensivão Python - Hashtag Treinamentos :chart_with_upwards_trend:
 
 Curso online e intensivo de introdução à linguagem Python, ministrada por João do canal de Youtube [Hashtag Treinamentos](https://www.youtube.com/c/HashtagTreinamentos).
 
