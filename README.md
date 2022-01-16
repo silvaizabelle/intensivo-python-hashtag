@@ -41,7 +41,7 @@ _______________________________________________
 - Link Original do Kaggle: [https://www.kaggle.com/radmirzosimov/telecom-users-dataset](https://www.kaggle.com/radmirzosimov/telecom-users-dataset)
 
 ### :bulb: O que aprendemos?
-1) Analisar e tratar conjunto de dados exportados do excel, por meio da biblioteca _pandas_, utilizando as funções _drop_ e _dropna_; 2) Explorar os dados por meio de tabelas descritivas; 3) Plotar gráficos comparativos, por meio da biblioteca _plotly_, para retirada de insights sobre problemas da empresa. Por fim, sugerimos ações a partir da análise dos dados tratados.
+1) Analisar e tratar conjunto de dados exportados do excel com a biblioteca _pandas_, utilizando as funções _drop_ e _dropna_; 2) Explorar os dados por meio de tabelas descritivas; 3) Plotar gráficos comparativos, por meio da biblioteca _plotly_, para retirada de insights sobre problemas da empresa. Por fim, sugerimos ações a partir da análise dos dados tratados.
 
 ### :mag: Como resolvemos esse desafio?
 Você pode ver o código [aqui](https://github.com/silvaizabelle/intensivo-python-hashtag/blob/main/aula-2-analisededados.ipynb).
