@@ -77,8 +77,8 @@ _______________________________________________
 
 1) Entender o problema, o contexto e a atuação da empresa solicitante; 
 2) Extrair e explorar os dados; 
-3) Entender a correlação entre as variáveis (estatística básica). 
-Após a compreensão da correlação entre as variáveis: 
+3) Entender a correlação entre as variáveis. 
+* Após a compreensão da correlação entre as variáveis: 
 4) Modelar nossa base de dados:
 * Separar em duas (ou quatro se considerarmos x e y): treino e teste.
 - A base de treino serve para treinar a maquina, para que ela consiga entender os resultados a partir dos investimentos;
