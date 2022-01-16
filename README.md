@@ -22,7 +22,7 @@ _______________________________________________
 - Comandos pyautogui: [https://pyautogui.readthedocs.io/en/latest/quickstart.html](https://pyautogui.readthedocs.io/en/latest/quickstart.html)
 
 ### :bulb: O que aprendemos?
-1) Automatizar um processo repetitivo por meio da biblioteca pyautogui e pyperclip, responsáveis por controlar mouse e teclado. Por meio do script, entramos em uma pasta do Google Drive, importamos um conjunto de dados xls; 2) Calcular a soma do faturamento e quantidade de produtos vendidos por meio da função .sum do _pandas_, seguido de envio automático do e-mail com dados referentes à planilha baixada.
+1) Automatizar um processo repetitivo por meio da biblioteca pyautogui e pyperclip, responsáveis por controlar mouse e teclado: entrar em uma pasta do Google Drive e importar um conjunto de dados em xls; 2) Calcular a soma do faturamento e quantidade de produtos vendidos por meio da função .sum do _pandas_; 3) Enviar e-mail automático com dados referentes à planilha atualizada.
 
 ### :mag: Como resolvemos esse desafio?
 Você pode ver o código [aqui](https://github.com/silvaizabelle/intensivo-python-hashtag/blob/main/aula-1-automacao.ipynb).
